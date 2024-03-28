@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ai , Machine-learning , python, data analysis , Power BI , DAX 
+AI , Machine-learning , Python, Data Analysis , Power BI , DAX 
 
 
 ## 🌐 Socials:
