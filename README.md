@@ -1,5 +1,9 @@
 # 💫 About Me:
-AI , Machine-learning , Python, Data Analysis , Power BI , DAX 
+Versatile professional proficient in Python and Power BI. Specializing in
+deep learning with a knack for developing advanced neural network
+models. Experienced director, editor, and writer with a passion for
+producing short films. Skilled in technical blogging and adept at leveraging
+creativity and innovation to solve challenges.
 
 
 ## 🌐 Socials:
